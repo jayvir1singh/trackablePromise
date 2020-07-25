@@ -1,4 +1,7 @@
 # trackablePromise
+
+A wrapper for the default promise object in javascirpt which gives more control over the state and value of a promise as it progresses.
+
 ## Example
 ```
 const trackablePromise = require("trackablePromise");
