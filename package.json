@@ -1,6 +1,6 @@
 {
   "name": "trackablepromise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for the default promise object in javascirpt which gives more control over the state and value of a promise as it progresses.",
   "main": "index.js",
   "scripts": {
