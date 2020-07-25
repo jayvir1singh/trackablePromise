@@ -1,0 +1,37 @@
+{
+  "name": "trackablepromise",
+  "version": "1.0.0",
+  "description": "A wrapper for the default promise object which gives more control over the state and value of a promise as it progresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vanilla",
+    "wrapper",
+    "promise",
+    "promises",
+    "asynchronous",
+    "async",
+    "deferred",
+    "deferreds",
+    "await",
+    "resolved",
+    "rejected",
+    "settled",
+    "pending",
+    "when",
+    "status",
+    "value"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayvir1singh/trackablePromise.git"
+  },
+  "author": "Jayvir Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayvir1singh/trackablePromise/issues"
+  },
+  "homepage": "https://github.com/jayvir1singh/trackablePromise#readme"
+}
